@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+header {
+  background-color: white; }
+
+footer {
+  color: #8f2d56;
+  background-color: pink; }
+
+body {
+  background-color: pink; }
+
+.menu h6 {
+  color: yellowgreen; }
+
+.menu div {
+  background-color: purple;
+  color: white; }
+  .menu div a {
+    color: white;
+    background-color: slategrey;
+    padding: 4px;
+    font-size: 24px; }
+    .menu div a:hover {
+      background-color: #f392cb; }
+
+#seccionIm {
+  background-color: yellowgreen; }
+  #seccionIm .foto {
+    height: 400px;
+    margin: 10px;
+    padding: 10px; }
+
+body {
+  background-color: pink; }

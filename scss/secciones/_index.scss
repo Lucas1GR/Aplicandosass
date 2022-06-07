@@ -1,0 +1,31 @@
+body{
+    background-color: pink;
+}
+.menu{
+    h6{
+        color: yellowgreen;
+    }
+    div{
+        background-color: purple;
+        color: white;
+        a{
+            color:white;
+            background-color:slategrey;
+            padding: 4px;
+            font-size: 24px;
+            &:hover{
+                background-color: rgb(243, 146, 203);
+            }
+        }
+    
+    }
+}
+#seccionIm{
+    background-color: yellowgreen;
+    .foto{
+        height: 400px;    
+        margin: 10px;
+        padding: 10px;
+    }
+
+}
